@@ -4,3 +4,4 @@ cat 파일명: 텍스트 파일 보기 명령
 touch 파일명: 파일이 새 파일이면 빈 파일 생성
 echo "print('Hi~')" >> hello.py : "print('Hi~')" 문자열을 가진 hello.py 파이썬 파일 생성
 이ㅣ이잉 모르겠다아
+helloworld.py 생성
