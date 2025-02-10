@@ -1,0 +1,3 @@
+ls -a : 숨긴 파일 볼 수 있음
+cd.git
+-git 명령어(init,add,commit,config) , 리눅스 명령어 (ls,ls -a) 
